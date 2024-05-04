@@ -1,0 +1,5 @@
+django
+mnemonic
+eth-account
+gunicorn
+requests
